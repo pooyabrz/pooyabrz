@@ -45,10 +45,8 @@
 
 ## 📊 GitHub Stats & Activity (animated)
 
-<!-- Replace `YOUR_GITHUB_USERNAME` with your GitHub handle -->
 
 <p align="center">
-  <!-- Typing / Intro animation is above. Below are dynamic SVG-based widgets -->
   <img src="https://github-readme-stats.vercel.app/api?username=pooyabrz&show_icons=true&theme=tokyonight&count_private=true" alt="github-stats" />
 </p>
 
@@ -57,52 +55,20 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" width="100%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=pooyabrz&theme=react-dark" width="100%" />
 </p>
 
 ---
 
 ## 🎯 Research & University Work
 
-* Projects and coursework include: AI Pacman adversarial algorithms, GNN experiments (Zachary’s Karate Club), pagerank implementations, SAT solver, Geometric A* path planning, Genetic Algorithm experiments, and multiple data-mining/NLP projects.
 * Active member of the university scientific association — organizing workshops and helping students.
 
----
-
-## 📁 How to make this README fully animated & repo-ready
-
-1. **Replace placeholders**
-
-   * Replace `YOUR_GITHUB_USERNAME` in the stat / graph URLs with your GitHub username.
-   * Replace project descriptions with links to each project's repository.
-2. **Add animated assets**
-
-   * Create an `/assets` folder in your profile repo and add GIFs/screenshots for the hero and each project.
-   * Replace the GIF links above with `./assets/your-gif.gif` or hosted URLs.
-3. **Enable dynamic README updates (optional)**
-
-   * Add `github-readme-stats` and `activity-graph` tokens if you use private data or want custom themes.
-   * Use a GitHub Action (e.g., `profile-summary-card-generator` or `actions/cache`) to update images regularly.
-4. **Make it pretty**
-
-   * Add sections you want (blog posts, certificates, talks).
-   * Use small badges from `shields.io` for certifications, hackathon placements (e.g., `Top-ranked in Quera Fito Hackathon`).
-
----
-
-## 📬 Contact & CV
+## 📬 Contact
 
 * Email: `Barazandehpooya@gmail.com`
-* Add your CV to the repo as `CV.pdf` and link it: `[Download CV](./CV.pdf)`
 
----
-
-## ❤️ Fun footer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=20&duration=3000&color=0A2540&width=600&height=35&lines=Keep+learning+%F0%9F%92%BB+%7C+Build+stuff+%F0%9F%9A%80+%7C+Share+knowledge+%F0%9F%8C%9F" />
 </p>
-
----
-
-> *Generated from Pooya Barazandeh's CV — replace placeholders and links with your real GitHub username and project URLs.*
