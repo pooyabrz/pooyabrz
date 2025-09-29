@@ -1,14 +1,112 @@
-## Hi there 👋
+# Hi there 👋 I'm Pooya Barazandeh
 
-**pooyabrz/pooyabrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code\&size=28\&pause=1000\&color=0F172A\&width=720\&height=60\&lines=Computer%20Science%20Student%20%7C%20AI%20Developer%20%7C%20Full-Stack%20Enthusiast)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding-animation" width="420" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🔭 About me
+
+* 🎓 Computer Science undergraduate at **Amirkabir University of Technology** (GPA: 19.7)
+* 💼 Part-time **AI Developer** at Rastanovin Raya — building and deploying ML/AI solutions
+* 👨‍🏫 Undergraduate teaching assistant for Data Structures, Algorithms, AI and more
+* ⚙️ I enjoy building full-stack apps, research prototypes, and computer vision tools
+* 📫 Reach me: `Barazandehpooya@gmail.com`
+
+---
+
+## ⚡ Highlight Projects
+
+> *Short gallery of selected projects — link each project to its repo in your profile*
+
+* **RAG System** — Retrieval-Augmented Generation (Python, React, Docker, LangChain). Deployed for scalable file & DB indexing + LLM querying.
+* **Exam Paper Segmentation & Blank Detection** — Computer Vision system for Ministry of Education (OpenCV, Python).
+* **ASR Bot in Bale** — Real-time Persian ASR using Vosk integrated into Bale messenger.
+* **Telegram Bot — YouTube Summarizer** — Whisper + DeepSeek pipeline for audio transcription & summarization.
+* **Sabad** — Full-stack online shopping site (React, Node.js, PostgreSQL).
+
+> Add GIF/screenshots for each project by placing them into `/assets` and linking here.
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-Black?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity (animated)
+
+<!-- Replace `YOUR_GITHUB_USERNAME` with your GitHub handle -->
+
+<p align="center">
+  <!-- Typing / Intro animation is above. Below are dynamic SVG-based widgets -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="github-stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="github-streak" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" width="100%" />
+</p>
+
+---
+
+## 🎯 Research & University Work
+
+* Projects and coursework include: AI Pacman adversarial algorithms, GNN experiments (Zachary’s Karate Club), pagerank implementations, SAT solver, Geometric A* path planning, Genetic Algorithm experiments, and multiple data-mining/NLP projects.
+* Active member of the university scientific association — organizing workshops and helping students.
+
+---
+
+## 📁 How to make this README fully animated & repo-ready
+
+1. **Replace placeholders**
+
+   * Replace `YOUR_GITHUB_USERNAME` in the stat / graph URLs with your GitHub username.
+   * Replace project descriptions with links to each project's repository.
+2. **Add animated assets**
+
+   * Create an `/assets` folder in your profile repo and add GIFs/screenshots for the hero and each project.
+   * Replace the GIF links above with `./assets/your-gif.gif` or hosted URLs.
+3. **Enable dynamic README updates (optional)**
+
+   * Add `github-readme-stats` and `activity-graph` tokens if you use private data or want custom themes.
+   * Use a GitHub Action (e.g., `profile-summary-card-generator` or `actions/cache`) to update images regularly.
+4. **Make it pretty**
+
+   * Add sections you want (blog posts, certificates, talks).
+   * Use small badges from `shields.io` for certifications, hackathon placements (e.g., `Top-ranked in Quera Fito Hackathon`).
+
+---
+
+## 📬 Contact & CV
+
+* Email: `Barazandehpooya@gmail.com`
+* Add your CV to the repo as `CV.pdf` and link it: `[Download CV](./CV.pdf)`
+
+---
+
+## ❤️ Fun footer
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=20&duration=3000&color=0A2540&width=600&height=35&lines=Keep+learning+%F0%9F%92%BB+%7C+Build+stuff+%F0%9F%9A%80+%7C+Share+knowledge+%F0%9F%8C%9F" />
+</p>
+
+---
+
+> *Generated from Pooya Barazandeh's CV — replace placeholders and links with your real GitHub username and project URLs.*
