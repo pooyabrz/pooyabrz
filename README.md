@@ -20,11 +20,13 @@
 
 ## ⚡ Highlight Projects
 
-* **RAG System** — Retrieval-Augmented Generation (Python, React, Docker, LangChain). Deployed for scalable file & DB indexing + LLM querying.
-* **Exam Paper Segmentation & Blank Detection** — Computer Vision system for Ministry of Education (OpenCV, Python).
-* **ASR Bot in Bale** — Real-time Persian ASR using Vosk integrated into Bale messenger.
-* **Telegram Bot — YouTube Summarizer** — Whisper + DeepSeek pipeline for audio transcription & summarization.
-* **Sabad** — Full-stack online shopping site (React, Node.js, PostgreSQL).
+* 🎮 [**Space Invader**](https://github.com/pooyabrz/space-invader) — A modern take on the classic Space Invaders arcade game. Built with c++ (qt).🚀
+* 🧠 [**Brain Teaser Minigames**](https://github.com/pooyabrz/brain-teaser-minigames) — Collection of interactive puzzle & logic games. Built with React + Node.js.🧩
+* 📺 [**YouTube Summarizer**](https://github.com/pooyabrz/YT-Summarizer) — A Telegram bot to summarize YouTube videos using Whisper + DeepSeek.🎤
+* 📑 **RAG System** — Retrieval-Augmented Generation (Python, React, Docker, LangChain). Deployed for scalable file & DB indexing + LLM querying.
+* 📷 **Exam Paper Segmentation & Blank Detection** — Computer Vision system for Ministry of Education (OpenCV, Python).
+* 🤖 **ASR Bot in Bale** — Real-time Persian ASR using Vosk integrated into Bale messenger.
+* 🛒 **Sabad** — Full-stack online shopping site (React, Node.js, PostgreSQL).
 
 ---
 
