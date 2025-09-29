@@ -20,15 +20,11 @@
 
 ## ⚡ Highlight Projects
 
-> *Short gallery of selected projects — link each project to its repo in your profile*
-
 * **RAG System** — Retrieval-Augmented Generation (Python, React, Docker, LangChain). Deployed for scalable file & DB indexing + LLM querying.
 * **Exam Paper Segmentation & Blank Detection** — Computer Vision system for Ministry of Education (OpenCV, Python).
 * **ASR Bot in Bale** — Real-time Persian ASR using Vosk integrated into Bale messenger.
 * **Telegram Bot — YouTube Summarizer** — Whisper + DeepSeek pipeline for audio transcription & summarization.
 * **Sabad** — Full-stack online shopping site (React, Node.js, PostgreSQL).
-
-> Add GIF/screenshots for each project by placing them into `/assets` and linking here.
 
 ---
 
