@@ -49,11 +49,11 @@
 
 <p align="center">
   <!-- Typing / Intro animation is above. Below are dynamic SVG-based widgets -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pooyabrz&show_icons=true&theme=tokyonight&count_private=true" alt="github-stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="github-streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooyabrz&theme=dark" alt="github-streak" />
 </p>
 
 <p align="center">
