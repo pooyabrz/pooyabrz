@@ -10,7 +10,7 @@
 
 ## 🔭 About me
 
-* 🎓 Computer Science undergraduate at **Amirkabir University of Technology** (GPA: 19.7)
+* 🎓 Computer Science undergraduate at **Amirkabir University of Technology** (GPA: 19.6)
 * 💼 Part-time **AI Developer** at Rastanovin Raya — building and deploying ML/AI solutions
 * 👨‍🏫 Undergraduate teaching assistant for Data Structures, Algorithms, AI and more
 * ⚙️ I enjoy building full-stack apps, research prototypes, and computer vision tools
