@@ -54,19 +54,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooyabrz&theme=dark" alt="github-streak" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=pooyabrz&theme=react-dark" width="100%" />
-</p>
-
 ---
-
-## 🎯 Research & University Work
-
-* Active member of the university scientific association — organizing workshops and helping students.
-
-## 📬 Contact
-
-* Email: `Barazandehpooya@gmail.com`
 
 
 <p align="center">
