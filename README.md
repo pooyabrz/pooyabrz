@@ -15,7 +15,7 @@
 * 👨‍🏫 Undergraduate teaching assistant for Data Structures, Algorithms, AI and more
 * ⚙️ I enjoy building full-stack apps, research prototypes, and computer vision tools
 * 📫 Reach me: `Barazandehpooya@gmail.com`
-* 🔗 **Live Website:** [pooyabrz.github.io/portfolio](https://pooyabrz.github.io/portfolio_website)  
+* 🔗 **Live Website:** [pooyabrz.github.io/portfolio_website](https://pooyabrz.github.io/portfolio_website)  
 * 📄 **Download CV:** [CV.pdf](./CV.pdf)
 
 ---
