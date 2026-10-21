@@ -1,14 +1,12 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Pooya Barazandeh — AI development, applied research, and software" width="100%" />
-</p>
+# Hi there 👋 I'm Pooya Barazandeh
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code\&size=28\&pause=1000\&color=0F172A\&width=720\&height=60\&lines=Computer%20Science%20Student%20%7C%20AI%20Developer%20%7C%20Full-Stack%20Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://pooyabrz.github.io/portfolio_website/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="./CV.pdf">CV</a> &nbsp;·&nbsp;
-  <a href="mailto:Barazandehpooya@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="./README.fa.md">فارسی</a>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding-animation" width="420" />
 </p>
 
+---
 ## About me
 
 I'm an **AI developer and team lead** working across machine learning, LLM applications, and the software around them. I graduated in **Computer Science from Amirkabir University of Technology** in July 2026, ranked **1st out of 72** with a **GPA of 19.55/20**.
