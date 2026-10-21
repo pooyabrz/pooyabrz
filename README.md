@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Pooya Barazandeh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code\&size=28\&pause=1000\&color=0F172A\&width=720\&height=60\&lines=Computer%20Science%20Student%20%7C%20AI%20Developer%20%7C%20Full-Stack%20Enthusiast)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding-animation" width="420" />
 </p>
