@@ -1,66 +1,69 @@
-# Hi there 👋 I'm Pooya Barazandeh
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code\&size=28\&pause=1000\&color=0F172A\&width=720\&height=60\&lines=Computer%20Science%20Student%20%7C%20AI%20Developer%20%7C%20Full-Stack%20Enthusiast)](https://git.io/typing-svg)
-
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding-animation" width="420" />
-</p>
-
----
-
-## 🔭 About me
-
-* 🎓 Computer Science undergraduate at **Amirkabir University of Technology** (GPA: 19.6)
-* 💼 Part-time **AI Developer** at Rastanovin Raya — building and deploying ML/AI solutions
-* 👨‍🏫 Undergraduate teaching assistant for Data Structures, Algorithms, AI and more
-* ⚙️ I enjoy building full-stack apps, research prototypes, and computer vision tools
-* 📫 Reach me: `Barazandehpooya@gmail.com`
-* 🔗 **Live Website:** [pooyabrz.github.io/portfolio_website](https://pooyabrz.github.io/portfolio_website)  
-* 📄 **Download CV:** [CV.pdf](./CV.pdf)
-
----
-
-## ⚡ Highlight Projects
-
-* 🎮 [**Space Invader**](https://github.com/pooyabrz/space-invader) — A modern take on the classic Space Invaders arcade game. Built with c++ (qt).🚀
-* 🧠 [**Brain Teaser Minigames**](https://github.com/pooyabrz/brain-teaser-minigames) — Collection of interactive puzzle & logic games. Built with React + Node.js.🧩
-* 📺 [**YouTube Summarizer**](https://github.com/pooyabrz/YT-Summarizer) — A Telegram bot to summarize YouTube videos using Whisper + DeepSeek.🎤
-* 📑 **RAG System** — Retrieval-Augmented Generation (Python, React, Docker, LangChain). Deployed for scalable file & DB indexing + LLM querying.
-* 📷 **Exam Paper Segmentation & Blank Detection** — Computer Vision system for Ministry of Education (OpenCV, Python).
-* 🤖 **ASR Bot in Bale** — Real-time Persian ASR using Vosk integrated into Bale messenger.
-* 🛒 **Sabad** — Full-stack online shopping site (React, Node.js, PostgreSQL).
-
----
-
-## 🛠️ Skills & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-Black?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats & Activity (animated)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pooyabrz&show_icons=true&theme=tokyonight&count_private=true" alt="github-stats" />
+  <img src="./assets/profile-banner.svg" alt="Pooya Barazandeh — AI development, applied research, and software" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooyabrz&theme=dark" alt="github-streak" />
+  <a href="https://pooyabrz.github.io/portfolio_website/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="./CV.pdf">CV</a> &nbsp;·&nbsp;
+  <a href="mailto:Barazandehpooya@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="./README.fa.md">فارسی</a>
 </p>
 
----
+## About me
 
+I'm an **AI developer and team lead** working across machine learning, LLM applications, and the software around them. I graduated in **Computer Science from Amirkabir University of Technology** in July 2026, ranked **1st out of 72** with a **GPA of 19.55/20**.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=20&duration=3000&color=0A2540&width=600&height=35&lines=Keep+learning+%F0%9F%92%BB+%7C+Build+stuff+%F0%9F%9A%80+%7C+Share+knowledge+%F0%9F%8C%9F" />
-</p>
+- **Industry:** AI Developer & Team Lead at **Rastanovin Raya** (part-time, Sep 2024–present). I lead a two-developer team on AI coding features for a cloud development environment used by 30+ developers.
+- **Research:** Communication-efficient **vertical federated learning**, **knowledge tracing**, and interpretable learning systems.
+- **Teaching:** TA for **10+ undergraduate and graduate courses** at Amirkabir, including Head TA for Advanced AI; also an Operating Systems TA at the University of Tehran.
+- **Continuing learning:** Completed **Oxford Machine Learning School's MLx Representation Learning & Generative AI 2026** programme and assessment.
+
+## Recent public work
+
+| Project | What it explores | Current stage |
+| --- | --- | --- |
+| [**Family Messenger**](https://github.com/pooyabrz/family-messenger) | Self-hosted Matrix messaging, Tailscale access, Docker setup tooling, and an optional Family Hub. | Uses upstream Matrix/Element; Hub data is separate from Matrix end-to-end encryption. No prebuilt APK. |
+| [**DemandCast**](https://github.com/pooyabrz/demandcast) | LightGBM retail forecasting, temporal backtesting, quantile intervals, and a Streamlit review dashboard. | Sampled M5 benchmark; median accuracy and expected-sales bias are reported separately. |
+| [**DocuLens**](https://github.com/pooyabrz/doculens) | Document Q&A with BM25, Persian normalization, source passages, and optional Ollama generation. | v0.1 prototype; semantic retrieval and persistent storage are future work. |
+| [**LeakScope**](https://github.com/pooyabrz/LeakScope) | Hydraulic signatures, sensor planning, and inspection-area ranking on the simulated BattLeDIM network. | Research prototype; the sparse-sensor performance target is not yet met. |
+| [**AquaSentinel**](https://github.com/pooyabrz/AquaSentinel) | Bayesian adaptive water-quality sampling under a five-test daily budget; optional WNTR/EPANET pipeline. | Synthetic educational simulation, not an operational water-safety system. |
+| [**Nimbryva**](https://github.com/pooyabrz/NIMBRYVA-ADAPTIVE-WATER-ENERGY-FACADE) | Adaptive water/energy facade research, a rotating-mechanism demo, and earlier numerical/PPO-policy replay. | Concept demonstrator; revised-design physical performance is not validated. |
+
+### Earlier builds
+
+- [**Tom & Jerry RL**](https://github.com/pooyabrz/Tom-and-Jerry-using-RL) — Q-learning in a grid-world pursuit game.
+- [**YouTube Summarizer**](https://github.com/pooyabrz/YT-Summarizer) — Telegram, Whisper transcription, and DeepSeek summaries.
+- [**Brain Teaser Minigames**](https://github.com/pooyabrz/brain-teaser-minigames) — React, Node.js/Express, and PostgreSQL minigames with player accounts and scoreboards.
+- [**Space Invader**](https://github.com/pooyabrz/space-invader) — A C++/Qt arcade game.
+
+## Research & education
+
+**Submitted manuscript · Feb 2026–present**  
+*Gradient-Noise-Scale-Aware Adaptive Sampling for Communication-Efficient Vertical Federated Logistic Regression.* Co-authored a study with **950 runs, 10 datasets, and 5 seeds**. The manuscript is **submitted**, not an accepted publication.
+
+**Bachelor's thesis · Sep 2025–Jun 2026**  
+*Deep Learning for Knowledge Tracing.* Studied DKT, AKT, and GKT on ASSISTments and EdNet, including attention-based interpretation of student knowledge states.
+
+## Industry engineering
+
+Selected work at **Rastanovin Raya**, described in my [CV](./CV.pdf):
+
+- **Cloud development & code assistance:** Context-aware code generation, autocomplete, review, and integration with full-stack development and CI/CD workflows.
+- **Document RAG:** A domain-specific retrieval and Q&A pipeline indexing 10,000+ documents, with a React interface and Docker deployment.
+- **Computer vision:** Exam-paper segmentation and blank-answer detection for education document processing.
+
+These company projects are separate from the public repositories above.
+
+## Toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Languages | Python · C/C++ · JavaScript · TypeScript · SQL · R |
+| AI & data | PyTorch · TensorFlow · scikit-learn · LangChain · Hugging Face Transformers · OpenCV · LightGBM · pandas |
+| Software | React · Node.js · PostgreSQL · Docker · Git · Linux · CI/CD · REST APIs |
+
+## Get in touch
+
+[**Barazandehpooya@gmail.com**](mailto:Barazandehpooya@gmail.com) · [Portfolio](https://pooyabrz.github.io/portfolio_website/) · [CV](./CV.pdf)
+
+<sub>Project descriptions reviewed against public repositories on 21 October 2026. Academic and work history follow the supplied CV.</sub>
