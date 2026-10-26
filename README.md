@@ -1,65 +1,94 @@
 # Hi there 👋 I'm Pooya Barazandeh
 
+**AI Developer & Team Lead · Applied AI Research · Computer Science Graduate**
+
+[Portfolio](https://pooyabrz.github.io/portfolio_website/) · [CV](./CV.pdf) · [Email](mailto:Barazandehpooya@gmail.com)
+
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding-animation" width="420" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding animation" width="420" />
 </p>
 
----
 ## About me
 
-I'm an **AI developer and team lead** working across machine learning, LLM applications, and the software around them. I graduated in **Computer Science from Amirkabir University of Technology** in July 2026, ranked **1st out of 72** with a **GPA of 19.55/20**.
+I build AI systems and the software around them, from learning models and retrieval pipelines to developer tools and full-stack applications.
 
-- **Industry:** AI Developer & Team Lead at **Rastanovin Raya** (part-time, Sep 2024–present). I lead a two-developer team on AI coding features for a cloud development environment used by 30+ developers.
-- **Research:** Communication-efficient **vertical federated learning**, **knowledge tracing**, and interpretable learning systems.
-- **Teaching:** TA for **10+ undergraduate and graduate courses** at Amirkabir, including Head TA for Advanced AI; also an Operating Systems TA at the University of Tehran.
-- **Continuing learning:** Completed **Oxford Machine Learning School's MLx Representation Learning & Generative AI 2026** programme and assessment.
+I graduated in **Computer Science from Amirkabir University of Technology** in July 2026, ranked **1st out of 72 students**, with a **GPA of 19.55/20**.
 
-## Recent public work
+- **Industry:** AI Developer & Team Lead at **Rastanovin Raya** — part-time since September 2024. I lead a two-developer team building AI coding features for a cloud development environment used by **30+ developers**.
+- **Research interests:** Communication-efficient **federated learning**, **knowledge tracing**, **computer vision**, and **LLM-based systems**.
+- **Teaching:** Served as a TA for **10+ undergraduate and graduate courses** at Amirkabir, including **Head TA for Advanced Artificial Intelligence**. Also supported Operating Systems labs at the **University of Tehran**.
+- **Further training:** Completed **Oxford Machine Learning School's MLx Representation Learning & Generative AI 2026** programme and assessment.
 
-| Project | What it explores | Current stage |
+## Selected projects
+
+| Project | Focus | Tools |
 | --- | --- | --- |
-| [**Family Messenger**](https://github.com/pooyabrz/family-messenger) | Self-hosted Matrix messaging, Tailscale access, Docker setup tooling, and an optional Family Hub. | Uses upstream Matrix/Element; Hub data is separate from Matrix end-to-end encryption. No prebuilt APK. |
-| [**DemandCast**](https://github.com/pooyabrz/demandcast) | LightGBM retail forecasting, temporal backtesting, quantile intervals, and a Streamlit review dashboard. | Sampled M5 benchmark; median accuracy and expected-sales bias are reported separately. |
-| [**DocuLens**](https://github.com/pooyabrz/doculens) | Document Q&A with BM25, Persian normalization, source passages, and optional Ollama generation. | v0.1 prototype; semantic retrieval and persistent storage are future work. |
-| [**LeakScope**](https://github.com/pooyabrz/LeakScope) | Hydraulic signatures, sensor planning, and inspection-area ranking on the simulated BattLeDIM network. | Research prototype; the sparse-sensor performance target is not yet met. |
-| [**AquaSentinel**](https://github.com/pooyabrz/AquaSentinel) | Bayesian adaptive water-quality sampling under a five-test daily budget; optional WNTR/EPANET pipeline. | Synthetic educational simulation, not an operational water-safety system. |
-| [**Nimbryva**](https://github.com/pooyabrz/NIMBRYVA-ADAPTIVE-WATER-ENERGY-FACADE) | Adaptive water/energy facade research, a rotating-mechanism demo, and earlier numerical/PPO-policy replay. | Concept demonstrator; revised-design physical performance is not validated. |
+| [**DemandCast**](https://github.com/pooyabrz/demandcast) | Retail forecasting on M5 data, with temporal backtesting, prediction intervals, and a dashboard comparing forecast accuracy and sales-volume bias. | Python · LightGBM · Streamlit |
+| [**LeakScope**](https://github.com/pooyabrz/LeakScope) | A research prototype for ranking water-network inspection areas using hydraulic signatures, sensor planning, and controlled evaluation on simulated BattLeDIM data. | Python · WNTR/EPANET · Streamlit |
+| [**Nimbryva**](https://github.com/pooyabrz/NIMBRYVA-ADAPTIVE-WATER-ENERGY-FACADE) | Adaptive water/solar-facade research: a rotating-mechanism concept demo, alongside earlier thermal, water, PV, and PPO-policy replay. | Python · Scientific simulation · Matplotlib · PPO |
 
-### Earlier builds
+These repositories document their experiments, current capabilities, and evaluation scope. LeakScope's sparse-sensor target remains unmet; Nimbryva's revised-device physical performance is not yet validated.
 
+<details>
+<summary><strong>Explore more projects</strong></summary>
+
+- [**DocuLens**](https://github.com/pooyabrz/doculens) — Evidence-first document Q&A prototype with BM25, Persian normalization, source passages, and optional Ollama generation.
+- [**AquaSentinel**](https://github.com/pooyabrz/AquaSentinel) — Educational Bayesian water-quality sampling on a synthetic network, with an optional WNTR/EPANET pipeline.
+- [**Family Messenger**](https://github.com/pooyabrz/family-messenger) — Self-hosted Matrix messaging with Tailscale access, Docker setup tooling, and an optional Family Hub built around upstream components.
 - [**Tom & Jerry RL**](https://github.com/pooyabrz/Tom-and-Jerry-using-RL) — Q-learning in a grid-world pursuit game.
-- [**YouTube Summarizer**](https://github.com/pooyabrz/YT-Summarizer) — Telegram, Whisper transcription, and DeepSeek summaries.
+- [**YouTube Summarizer**](https://github.com/pooyabrz/YT-Summarizer) — A Telegram bot combining Whisper transcription with DeepSeek summaries.
 - [**Brain Teaser Minigames**](https://github.com/pooyabrz/brain-teaser-minigames) — React, Node.js/Express, and PostgreSQL minigames with player accounts and scoreboards.
-- [**Space Invader**](https://github.com/pooyabrz/space-invader) — A C++/Qt arcade game.
+- [**Space Invader**](https://github.com/pooyabrz/space-invader) — A C++/Qt desktop arcade game.
 
-## Research & education
+</details>
 
-**Submitted manuscript · Feb 2026–present**  
-*Gradient-Noise-Scale-Aware Adaptive Sampling for Communication-Efficient Vertical Federated Logistic Regression.* Co-authored a study with **950 runs, 10 datasets, and 5 seeds**. The manuscript is **submitted**, not an accepted publication.
+## Research experience
 
-**Bachelor's thesis · Sep 2025–Jun 2026**  
-*Deep Learning for Knowledge Tracing.* Studied DKT, AKT, and GKT on ASSISTments and EdNet, including attention-based interpretation of student knowledge states.
+### Vertical federated learning
+
+**Submitted manuscript · February 2026–present**
+
+*Gradient-Noise-Scale-Aware Adaptive Sampling for Communication-Efficient Vertical Federated Logistic Regression.*
+
+Co-authored a study of adaptive sampling for communication-efficient learning, evaluated through **950 runs across 10 datasets and 5 seeds**.
+
+### Knowledge tracing
+
+**Bachelor's thesis · September 2025–June 2026**
+
+*Deep Learning for Knowledge Tracing.*
+
+Studied **DKT, AKT, and GKT** on **ASSISTments and EdNet**, including attention mechanisms for interpreting student knowledge states.
+
+### Computer vision for bridge inspection
+
+**Research Assistant · NORC, Amirkabir University of Technology**  
+**January 2025–January 2026 · Part-time · Hybrid**  
+**Supervisor: Prof. Mehdi Ghatee**
+
+Advanced the **Urban Bridge Failure Detection System** in collaboration with **Tehran Urban Planning and Research Center (TUPRC)**. Worked on deep-learning pipelines for detecting **cracks, corrosion, and deformation** in bridge-inspection images using **Python, PyTorch, OpenCV, and YOLO**.
 
 ## Industry engineering
 
-Selected work at **Rastanovin Raya**, described in my [CV](./CV.pdf):
+Selected work at **Rastanovin Raya**:
 
-- **Cloud development & code assistance:** Context-aware code generation, autocomplete, review, and integration with full-stack development and CI/CD workflows.
-- **Document RAG:** A domain-specific retrieval and Q&A pipeline indexing 10,000+ documents, with a React interface and Docker deployment.
-- **Computer vision:** Exam-paper segmentation and blank-answer detection for education document processing.
+- **AI coding & cloud development:** Context-aware code generation, autocomplete, automated review, and integration with full-stack development and CI/CD workflows.
+- **Document retrieval & RAG:** A domain-specific Q&A pipeline indexing **10,000+ documents**, with a React interface and Docker deployment.
+- **Document vision:** Exam-paper question segmentation and blank-answer detection for education document processing.
 
-These company projects are separate from the public repositories above.
+More on these company projects is available in my [CV](./CV.pdf).
 
 ## Toolkit
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Python · C/C++ · JavaScript · TypeScript · SQL · R |
-| AI & data | PyTorch · TensorFlow · scikit-learn · LangChain · Hugging Face Transformers · OpenCV · LightGBM · pandas |
-| Software | React · Node.js · PostgreSQL · Docker · Git · Linux · CI/CD · REST APIs |
+| Languages | Python · C/C++ · JavaScript · TypeScript · SQL · R · LaTeX |
+| AI & data | PyTorch · TensorFlow · scikit-learn · LightGBM · LangChain · Hugging Face Transformers · OpenCV · pandas |
+| Software & delivery | React · Node.js · PostgreSQL · Docker · Git · Linux · CI/CD · REST APIs |
+| Simulation & interfaces | WNTR/EPANET · Matplotlib · Streamlit |
 
 ## Get in touch
 
-[**Barazandehpooya@gmail.com**](mailto:Barazandehpooya@gmail.com) · [Portfolio](https://pooyabrz.github.io/portfolio_website/) · [CV](./CV.pdf)
+For research discussions, engineering collaborations, or questions about a project:
 
-<sub>Project descriptions reviewed against public repositories on 21 October 2026. Academic and work history follow the supplied CV.</sub>
+**[Barazandehpooya@gmail.com](mailto:Barazandehpooya@gmail.com)** · [Portfolio](https://pooyabrz.github.io/portfolio_website/) · [CV](./CV.pdf)
